@@ -1,1 +1,1 @@
-# application-
+# application- Employee Details  It is a class named Details that will contain get and set methods for an employee ID number, first name, surname and salary. It  Include a method called getUpdatedSalary() that will increase the staff members salary by 10%. The main class include a static method named printDetails() that will produce an employee details report, also include a static method named salaryDeductions() that will display.
